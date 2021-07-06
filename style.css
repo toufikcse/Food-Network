@@ -11,7 +11,7 @@ body{
 .middle{
     padding-top: 10px;
     display: flex;
-    background-image: url("/images/back.png");
+    background-image: url("images/back.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 100px;
